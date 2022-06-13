@@ -13,4 +13,4 @@ experience and my skills as a developer.
 - Capacity for teamwork
 - Ease for learning
 
-**If you would like to know more about what could I do check out my repos 👀 [GitHub](https://github.com/4strodev) [GitLab](https://gitlab.com/4strodev)**
+**If you would like to know more about what could I do check out my repos 👀 [GitLab](https://gitlab.com/4strodev)**
