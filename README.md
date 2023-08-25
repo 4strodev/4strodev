@@ -5,9 +5,9 @@ Hi there 👋 I'm a self-taught spanish backend web developer. Currently I'm wor
 - Typescript
 - Go
 - Linux
+- Docker
 - SQL database management
 - Angular
-- Docker
 
 ## Soft skills
 - English
