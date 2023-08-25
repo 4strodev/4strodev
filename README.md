@@ -1,13 +1,13 @@
 ## Bio
-Hi there 👋 I'm a self-taught spanish web developer. Currently I'm working to increase my
-experience and my skills as a developer.
+Hi there 👋 I'm a self-taught spanish backend web developer. Currently I'm working as Full-Stack and web3 developer. Aspiring to work as Backend and keep learning more about, networking, microservices and software architecture.
 
 ## Technical skills
-- Backend with Node.js and Go
-- MariaDB
-- Angular
-- Some experience with Vue.js
+- Typescript
+- Go
 - Linux
+- SQL database management
+- Angular
+- Docker
 
 ## Soft skills
 - English
