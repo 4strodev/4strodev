@@ -11,6 +11,7 @@ Sometimes I write some posts to my [personal blog](https://4strodev.com) and kee
 - DDD
 - Linux
 - Docker
+- SQL
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4strodev)](https://github.com/anuraghazra/github-readme-stats)
 
