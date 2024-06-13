@@ -8,5 +8,7 @@ Sometimes I write some posts to my [personal blog](https://4strodev.com) and kee
 - TypeScript: Angular, NestJS, Express
 - Go: Fiber
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4strodev)](https://github.com/anuraghazra/github-readme-stats)
+
+### My goals
+I would like to be participant of a team that develops a high performance project and enforces to apply agile methodologies with good practices on their workflow.
