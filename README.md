@@ -13,11 +13,7 @@ Open source contributor and software development passionate.
 
 Checkout my [personal blog](https://4strodev.com) 
 
-<div style="display: flex; justify-content: space-around; align-items: center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+<div>
     <img src="https://github-readme-stats.vercel.app/api?username=4strodev">
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4strodev">
-  </a>
 </div>
