@@ -1,6 +1,6 @@
 ## 🚀 Bio
 **BACKEND DEVELOPER**
-+2 years of experience working on full-stack applications and other environments.
+Working since 2022 on full-stack applications and other environments.
 Open source contributor and software development passionate.
 
 - DevOps
