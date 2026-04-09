@@ -2,7 +2,7 @@
 
 Backend developer with a focus on building reliable, maintainable systems and understanding how things work under the hood. Particularly distributed systems, and the boundaries between application logic and infrastructure.
 
-I tend to approach problems from a systems perspective: not just *how* to implement something, but *why* it behaves the way it does. This includes digging into database internals (e.g. Postgres transactions), authentication mechanisms (Kerberos, LDAP), and deployment strategies.
+I tend to approach problems from a systems perspective: not just *how* to implement something, but *why* it behaves the way it does. This includes digging into database internals, authentication mechanisms, deployment strategies and more.
 
 ### 🧠 Interests
 
