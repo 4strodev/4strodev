@@ -9,7 +9,7 @@ I tend to approach problems from a systems perspective: not just *how* to implem
 * Backend architecture and system design
 * Low-level behavior of high-level abstractions
 * DevOps practices (CI/CD, rollbacks, progressive delivery)
-* Programming languages with different trade-offs (TypeScript, Java, Go, exploring Rust/Zig)
+* Programming languages with different trade-offs (TypeScript, Java, Go, exploring low-level like C or Rust)
 * Economics, technology ecosystems, and practical language learning
 
 ### ⚙️ Tech
