@@ -1,4 +1,4 @@
-## 👨‍💻 Backend Developer | Systems & Pragmatic Engineering
+## 👨‍💻 Backend Developer | Systems & Pragmatic Developer
 
 Backend developer with a focus on building reliable, maintainable systems and understanding how things work under the hood. Particularly distributed systems, and the boundaries between application logic and infrastructure.
 
